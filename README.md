@@ -1,6 +1,6 @@
 # Assignment 7
 
-## CS 648 coursework
+### CS 648 coursework
 JavaScript problems
 
 #### Part 1 Note
